@@ -1,0 +1,4 @@
+username|password|userID|name|contact
+antiwck|wck696|wck000001|Wong Chee Kei|0123334445
+jason|ja12|wck000002|Jason Chen|0142226666
+danny|danny555|wck000003|Danny Ng|0182223334

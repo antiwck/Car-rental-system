@@ -1,0 +1,8 @@
+booking ID|Vehicle ID|customer ID|duration|startDateEndData|fare|pick up point|review
+ahvd1231|a03|wck000002|3|2023-05-20 2023-05-22|600.00|KLIA2 Parking|3
+jbmg0192|a01|wck000003|2|2023-06-07 202-06-08|700.00|SS15 Parking|3
+asda9932|a04|wck000001|2|2023-07-02 2023-07-03|200.00|SS15 Parking|4
+accd9696|a03|wck000002|3|2023-06-10 2023-06-12|600.00|KLIA2 Parking|4
+lvme1334|a02|wck000003|3|2023-06-07 202-06-08|900.00|SS15 Parking|4
+asdo0554|a01|wck000001|1|2023-07-02 2023-07-03|350.00|SS15 Parking|4
+smew3804|a03|wck000002|2|2023-09-25 2023-09-26|400.00|Koperasi Blok B Flat Penjara Jln Sungai Jelok|4

@@ -1,0 +1,3 @@
+username|password|userID|name|contact
+admin1|admin1|admin000001|Dave Dingus|0142236275
+admin2|admin2|admin000002|Jeff Scrotum|0142226666

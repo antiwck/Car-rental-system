@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\OneDrive - Asia Pacific University\Antiwck\Miscellaneous\CPP Projects\1. Car rental system\Car rental system\CustomerFunctions.h(186,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Car rental system.vcxproj -> E:\OneDrive - Asia Pacific University\Antiwck\Miscellaneous\CPP Projects\1. Car rental system\Car rental system\x64\Debug\Car rental system.exe

@@ -1,0 +1,5 @@
+vehicle ID|brand|model|seat capacity|transmission type|colour|Fare per day|availability
+a01|Mercedes|e200|5|automatic|white|350.00|available
+a02|BYD|Atto 3|5|automatic|gray|300.00|available
+a03|Honda|City RS|5|automatic|white|200.00|available
+a04|Proton|Iriz|5|manual|gray|100.00|available
